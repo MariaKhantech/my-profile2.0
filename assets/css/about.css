@@ -1,0 +1,182 @@
+.edit-nav {
+  background-color: #003366;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #add8e6 !important;
+}
+
+.gb-col-xl-5 {
+  padding: 50px;
+}
+
+.gb-section {
+  height: 100vh;
+  width: 100%;
+  position: static;
+}
+
+.gb-row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.img-fluid {
+  width: 500px;
+  height: 700px !important;
+  border: groove;
+  border-radius: 100px;
+  color: #003366;
+}
+
+.gb-fit-1 {
+  height: 100vh;
+}
+
+.gb-display-1 {
+  text-transform: uppercase;
+  font-family: Oswald, sans-serif;
+  font-size: 42px;
+  letter-spacing: 18px;
+  font-weight: 700;
+}
+
+.gb-heading-one {
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 23px;
+  letter-spacing: 3px;
+}
+
+.gb-lead {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.gb-green {
+  color: #048e94;
+  font-family: "Open Sans", sans-serif;
+}
+
+.gb-btn {
+  background-color: #090808;
+  border-radius: 0px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.gb-btn:hover {
+  background-color: #1a1515;
+}
+
+.gb-btn-rounded {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+@media only screen and (max-width: 500px) {
+  .gb-fit {
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    background-position: left center;
+  }
+  .gb-display-1 {
+    font-size: 32px;
+    letter-spacing: 4px;
+  }
+  .gb-heading-one,
+  .gb-heading-two {
+    font-size: 20px;
+  }
+  .gb-lead {
+    font-size: 16px;
+  }
+  .gb-btn-rounded {
+    height: 40px;
+    width: 40px;
+    padding: 3px;
+  }
+  .gb-col-xl-5 {
+    padding: 30px 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .gb-fit {
+    background-size: cover;
+    width: 100%;
+    background-position: center bottom;
+    height: 100vh !important;
+  }
+  .gb-display-1 {
+    font-size: 32px;
+    letter-spacing: 4px;
+  }
+  .gb-heading-one,
+  .gb-heading-two {
+    font-size: 1.8rem !important;
+  }
+  .gb-lead {
+    font-size: 16px;
+  }
+}
+
+.gb-gb-green {
+  text-transform: uppercase;
+}
+
+.gb-gb-green-1 {
+  letter-spacing: 1px;
+}
+
+.gb-gb-green-2 {
+  letter-spacing: 2px;
+}
+
+.gridbox-badge {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  letter-spacing: 2px;
+  margin-bottom: 0 !important;
+  line-height: 0 !important;
+  font-weight: 600;
+  color: #fff;
+  padding: 8px;
+  position: fixed !important;
+  display: inline-block !important;
+  visibility: visible !important;
+  z-index: 2147483647 !important;
+  top: auto !important;
+  right: 18px !important;
+  bottom: 3px !important;
+  left: auto !important;
+  color: #fff !important;
+  background: #191c1e;
+  background: -webkit-gradient(linear, left top, right top, from(#191c1e), to(#191c1f));
+  background: linear-gradient(to right, #191c1e, #191c1f);
+  border-radius: 3px !important;
+  padding: 8px !important;
+  opacity: 1 !important;
+  line-height: 14px !important;
+  text-decoration: none !important;
+  -webkit-transform: none !important;
+          transform: none !important;
+  margin: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  overflow: visible !important;
+  white-space: nowrap;
+  -webkit-box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);
+}
+/*# sourceMappingURL=about.css.map */

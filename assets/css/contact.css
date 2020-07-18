@@ -1,0 +1,35 @@
+body {
+  font-family: fantasy;
+}
+
+.style-pill {
+  border-color: darkblue;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+.badge {
+  height: 500px;
+}
+
+.form-control {
+  -webkit-box-shadow: inset -3px -3px 10px #eee;
+  box-shadow: inset -3px -3px 10px #eee;
+  border-radius: 15px;
+}
+
+.btn {
+  -webkit-box-shadow: inset -3px -3px 10px #0acc9b;
+  box-shadow: inset -3px -3px 10px #0a17cc;
+  background-color: #add8e6;
+  /* Fill color */
+  color: white;
+  /* Text color */
+  border-radius: 20px;
+  /* Rounded button edges */
+  font-style: italic;
+  /* Italicize text */
+  padding: 10px 30px;
+  /* Distance between text and border */
+}
+/*# sourceMappingURL=contact.css.map */
