@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #003366 !important;
 }
 
 .edit-nav {
@@ -55,6 +56,14 @@ body {
 
 .card-margin {
   margin-top: 400px;
+}
+
+.card-body {
+  background-color: lightyellow;
+}
+
+#sun-logo {
+  height: 50px;
 }
 
 .heart-color {

@@ -1,4 +1,38 @@
+body {
+  background-color: lightyellow !important;
+}
+
 .edit-nav {
   background-color: #003366;
+}
+
+#sun-logo {
+  height: 50px;
+}
+
+.card-body {
+  border-radius: 60px 60px 0px 0px !important;
+  z-index: 1;
+}
+
+.card-img-top {
+  -webkit-transition: -webkit-transform 1.5s ease;
+  transition: -webkit-transform 1.5s ease;
+  transition: transform 1.5s ease;
+  transition: transform 1.5s ease, -webkit-transform 1.5s ease;
+  z-index: 0;
+  background-color: rebeccapurple !important;
+}
+
+.card-img-top:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  z-index: 0;
+}
+
+.card-body:hover .card-image {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+  z-index: 0;
 }
 /*# sourceMappingURL=portolio.css.map */

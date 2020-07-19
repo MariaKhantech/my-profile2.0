@@ -5,7 +5,11 @@
 body {
   height: 100%;
   width: 100%;
-  background-color: #add8e6 !important;
+  background-color: lightyellow !important;
+}
+
+#sun-logo {
+  height: 50px;
 }
 
 .gb-col-xl-5 {
@@ -78,6 +82,14 @@ body {
   border-radius: 50%;
   height: 50px;
   width: 50px;
+}
+
+a:hover {
+  border: 1px solid;
+  border-radius: 50%;
+  padding: 8px;
+  -webkit-box-shadow: 5px 10px rgba(84, 247, 243, 0.05);
+          box-shadow: 5px 10px rgba(84, 247, 243, 0.05);
 }
 
 @media only screen and (max-width: 500px) {
