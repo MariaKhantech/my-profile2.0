@@ -1,6 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap");
 body {
   margin: 0;
   padding: 0;
+  font-family: '$fontFamily';
+  font-size: 20px !important;
   background-color: #003366 !important;
 }
 
