@@ -56,4 +56,22 @@ body {
 .card-margin {
   margin-top: 400px;
 }
+
+.heart-color {
+  color: #d838a8;
+  border-style: solid;
+  border-radius: 50%;
+  padding: 10px;
+  border-color: #003366;
+  background-color: lightblue;
+  padding-top: 11px;
+}
+
+a:hover {
+  border: 1px solid;
+  border-radius: 50%;
+  padding: 8px;
+  -webkit-box-shadow: 5px 10px rgba(84, 247, 243, 0.05);
+          box-shadow: 5px 10px rgba(84, 247, 243, 0.05);
+}
 /*# sourceMappingURL=style.css.map */

@@ -2,14 +2,21 @@ body {
   font-family: fantasy;
 }
 
+.edit-nav {
+  background-color: #003366;
+}
+
 .style-pill {
   border-color: darkblue;
   border-style: solid;
-  border-radius: 50%;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+  padding-top: 0 !important;
 }
 
 .badge {
   height: 500px;
+  width: 600px;
 }
 
 .form-control {

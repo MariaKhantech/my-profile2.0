@@ -1,5 +1,6 @@
 $color1: black;
 $buttonclr: #add8e6;
+$darkblue: #003366;
 
 body {
 	font-family: fantasy;
@@ -11,6 +12,9 @@ body {
 .style-pill {
 	border-color: darkblue;
 	border-style: solid;
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+	padding-top: 0 !important;
 }
 .badge {
 	height: 500px;
