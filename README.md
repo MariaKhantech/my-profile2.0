@@ -1,7 +1,20 @@
 # Portfolio 2.0
 
-  ![badge](https://img.shields.io/badge/JavaScript-51%25-yellow) ![badge](https://img.shields.io/badge/HTML-32%25-red) ![badge](https://img.shields.io/badge/CSS-17%25-9cf) !
+  ![badge](https://img.shields.io/badge/JavaScript-51%25-yellow) ![badge](https://img.shields.io/badge/HTML-32%25-red) ![badge](https://img.shields.io/badge/CSS-17%25-9cf) 
 
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+
+<!--linkedin logo-->
+<a class="LI-simple-link" href='https://www.linkedin.com/in/maria-khan-9202471a3?trk=profile-badge'>Maria's LinkedIn <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="linkedin logo." width="20" height="20"> </a></div>
+
+
+<!-- image for team tracker-->
+  <p align="center">
+  <a href="#">
+    <img src="https://i.imgur.com/qGRRccb.png" width="125" height="100">
+  </a>
+  
 ## Heroku URL
 
 
