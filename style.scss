@@ -28,15 +28,15 @@ body {
 	position: absolute;
 	left: 100px;
 }
-.layer3 img {
-	position: absolute;
-	left: 300px;
+.waves {
+	left: 1000px;
 }
 
 .layer2 img {
 	position: absolute;
 	left: -1700px;
 	top: -0px;
+	object-fit: cover;
 }
 .layer4-sun img {
 	height: 150px;
@@ -60,7 +60,7 @@ body {
 }
 
 .card-margin {
-	margin-top: 400px;
+	margin-top: 100px;
 }
 
 .card-body {
