@@ -15,10 +15,10 @@
     <img src="https://i.imgur.com/qGRRccb.png" width="125" height="100">
   </a>
   
-## Demo
+## Demo link
 
-https://mariakhantech.github.io/my-profile2.0/
 
+Pending
 
 ## Table of Contents
 * [General Information](#general-information)
