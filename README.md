@@ -15,7 +15,9 @@
     <img src="https://i.imgur.com/qGRRccb.png" width="125" height="100">
   </a>
   
-## Heroku URL
+## Demo
+
+https://mariakhantech.github.io/my-profile2.0/
 
 
 ## Table of Contents
